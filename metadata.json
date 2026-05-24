@@ -1,0 +1,6 @@
+{
+  "name": "Prova Técnica: Engenharia de Dados",
+  "description": "Avaliação de nivelamento de conhecimento em Engenharia de Dados e IA com recomendação de trilha e faixa salarial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
